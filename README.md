@@ -3,7 +3,7 @@
 
 ### Last Name: Fattahli
 ### First Name: Farid
-### GitHub Username: FattahliFarid
+### GitHub Username: Fattahli Farid
 
 
 #### General Workflow:
